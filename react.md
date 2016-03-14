@@ -172,3 +172,5 @@ sudo npm install koa --harmony-generators --save
 ```
 sudo npm install electron-prebuilt --save-dev
 ```
+
+[jolteon](https://github.com/vulpino/jolteon) 完整的开发框架
