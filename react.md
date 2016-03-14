@@ -34,7 +34,8 @@ npm install react-dom --save
 ```
 
 ##redux
-[redux.js](https://github.com/reactjs/redux) 状态管理框架
+[redux](https://github.com/reactjs/redux) 状态管理框架  
+[redux-thunk](https://github.com/gaearon/redux-thunk) Thunk 中间件
 
 [react-redux](https://github.com/reactjs/react-redux) react 绑定 redux
 
@@ -74,11 +75,19 @@ npm install relay --save
 
 [falcor](https://github.com/Netflix/falcor) 数据存取框架
 
+[bookshelf](https://github.com/tgriesser/bookshelf) ORM 框架（MySQL and SQLite）
+
 ```
 npm install --save isomorphic-fetch es6-promise
 
 npm install falcor --save
 npm install falcor-router --save
+
+// ORM 框架
+npm install knex --save
+npm install bookshelf --save
+// MySQL 驱动
+npm install mysql --save
 ```
 
 ##lodash
@@ -90,6 +99,13 @@ npm install falcor-router --save
 npm install lodash --save
 
 npm install ramda --save
+```
+
+##promise
+[bluebird](https://github.com/petkaantonov/bluebird) 异步支持库
+
+```
+npm install bluebird --save
 ```
 
 ##immutable
