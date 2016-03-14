@@ -7,6 +7,7 @@
 node -p process.versions.v8
 node -v
 ```
+
 ##npm
 [npm.js](https://www.npmjs.com) 包管理
 
@@ -23,6 +24,7 @@ cd MyProject
 npm init
 npm install
 ```
+
 ##react
 [react.js](https://github.com/facebook/react) 视图表现框架
 
@@ -30,6 +32,7 @@ npm install
 npm install react --save
 npm install react-dom --save
 ```
+
 ##redux
 [redux.js](https://github.com/reactjs/redux) 状态管理框架
 
@@ -58,6 +61,7 @@ npm install react-router --save
 // 同步器
 npm install react-router-redux --save
 ```
+
 ##relay
 [relay.js](https://github.com/facebook/relay) 数据管理框架
 
@@ -105,6 +109,7 @@ npm install immutable --save
 
 [sinon](https://github.com/sinonjs/sinon) mocks 框架
 
+
 ##eslint
 [eslint](https://github.com/eslint/eslint) 代码规范管理
 
@@ -113,6 +118,7 @@ npm install immutable --save
 ```
 npm install eslint -g
 ```
+
 ##babel
 [babel](https://github.com/babel/babel) ES6 转换 ES5
 
@@ -128,4 +134,25 @@ npm install webpack -g
 npm install webpack --save-dev
 
 npm install eslint@2.x babel-eslint@next --save-dev
+```
+
+##sails
+[sails](https://github.com/balderdashy/sails) 应用服务器 (基于 Node.js, Connect, Express, and Socket.io)
+
+```
+sudo npm install sails --save
+```
+
+##koa
+[koa](https://github.com/koajs/koa) 应用服务器
+
+```
+sudo npm install koa --harmony-generators --save
+```
+
+##electron
+[electron](https://github.com/atom/electron) 桌面应用开发框架
+
+```
+sudo npm install electron-prebuilt --save-dev
 ```
