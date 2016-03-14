@@ -41,6 +41,8 @@ npm install react-dom --save
 
 [react-router-redux](https://github.com/reactjs/react-router-redux) react-router 同步 redux
 
+[redux-devtools](https://github.com/gaearon/redux-devtools) 支持工具
+
 ```
 npm install redux --save
 
@@ -63,8 +65,50 @@ npm install react-router-redux --save
 npm install relay --save
 ```
 
+##fetch
+[isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) 数据存取框架
+
+[falcor](https://github.com/Netflix/falcor) 数据存取框架
+
+```
+npm install --save isomorphic-fetch es6-promise
+
+npm install falcor --save
+npm install falcor-router --save
+```
+
+##lodash
+[lodash](https://github.com/lodash/lodash) 通用函数库
+
+[ramda](https://github.com/ramda/ramda) 函数式支持
+
+```
+npm install lodash --save
+
+npm install ramda --save
+```
+
+##immutable
+[immutable](https://github.com/facebook/immutable-js) 不变数据集合
+
+```
+npm install immutable --save
+```
+
+##mocha + chai + sinon
+[enzyme](https://github.com/airbnb/enzyme) React 测试框架
+
+[mocha](https://github.com/mochajs/mocha) BDD 测试框架
+
+[chai](https://github.com/chaijs/chai) BDD 断言框架  
+[dirty-chai](https://github.com/prodatakey/dirty-chai)
+
+[sinon](https://github.com/sinonjs/sinon) mocks 框架
+
 ##eslint
 [eslint](https://github.com/eslint/eslint) 代码规范管理
+
+[code style](https://github.com/airbnb/javascript) 代码风格约定
 
 ```
 npm install eslint -g
