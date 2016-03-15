@@ -19,8 +19,8 @@ npm -v
 ##创建项目目录
 
 ```
-mkdir MyProject
-cd MyProject
+mkdir my-project
+cd my-project
 ```
 
 ##初始化项目
