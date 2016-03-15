@@ -16,11 +16,16 @@ sudo npm install npm@latest -g
 npm -v
 ```
 
-然后，需要创建项目目录
+##创建项目目录
 
 ```
 mkdir MyProject
 cd MyProject
+```
+
+##初始化项目
+
+```
 npm init
 npm install
 ```
